@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Singh Yadav</h1>
-<h3 align="center">🤖 AI/ML Researcher & Engineer | Student at IIT Bombay | </h3>
+<h3 align="center">🤖 AI/ML Researcher & Engineer | Student at IIT Bombay  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=AI%2FML+Researcher+%26+Engineer;CVPR+2026+Published+Author;Diffusion+Models+%7C+LLMs+%7C+Agentic+AI;Top+50+Worldwide+in+AI+Olympiad;IIT+Bombay+%7C+AI+%26+Data+Science+Minor" alt="Typing SVG" />
